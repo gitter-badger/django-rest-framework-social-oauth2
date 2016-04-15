@@ -1,6 +1,10 @@
 Django rest-framework Social Oauth2
 ===================================
 
+.. image:: https://badges.gitter.im/puneetagg/django-rest-framework-social-oauth2.svg
+   :alt: Join the chat at https://gitter.im/puneetagg/django-rest-framework-social-oauth2
+   :target: https://gitter.im/puneetagg/django-rest-framework-social-oauth2?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+
 .. image:: https://badge.fury.io/py/django-rest-framework-social-oauth2.svg
     :target: http://badge.fury.io/py/django-rest-framework-social-oauth2
 
